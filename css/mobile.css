@@ -1,0 +1,25 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 100px;
+}
+.certificates .certificate{
+    flex-direction: column;
+}
+#about .items{
+    flex-direction: column;
+}
+#about .items .item{
+    width: 100%;
+}
+.social-icons {
+    font-size: 24px; /* İstenen boyutu ayarlayabilirsiniz */
+    margin-left: 0px;
+}
+.skills{
+    font-family: "Open Sans", sans-serif;
+    white-space: pre-wrap;
+    text-align: left;
+}
